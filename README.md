@@ -1,4 +1,4 @@
-# YouTube Playlist Data and Comments Sentiment Analysis
+# YouTube Playlist Videos comments ETL and Sentiment Analysis
 
 This project extracts video and comment data from a specified YouTube playlist and analyzes the sentiment of comments using a pre-trained RoBERTa model. The results are saved as CSV files for further analysis or visualization.
 
